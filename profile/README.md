@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alexandro Castro</h1>
 <h3 align="center">Welcome to my Research repository</h3>
 
+![image](https://github.com/user-attachments/assets/713807e4-2905-48f6-819a-8564ee8eb466)
+
 # About
 
 I have been diligently developing a proof of concept aimed at enhancing decision-making within both my projects and my workplace. 
